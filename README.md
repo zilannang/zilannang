@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zilan</h1>
-<h3 align="center">I'm a 4th grade student at Yalova University Computer Engineering</h3>
+<h1 align="center">Hi there, I'm Zilan 👋</h1>
+<h3 align="center">Computer Engineer, Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV, CNN**
+- 🌱 I’m interested in **Machine Learning, Data Science and Computer Vision!**
 
 
